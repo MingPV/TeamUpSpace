@@ -1,0 +1,3 @@
+[submodule "TeamUpSpace-frontend"]
+	path = TeamUpSpace-frontend
+	url = https://github.com/MingPV/TeamUpSpace-frontend.git
