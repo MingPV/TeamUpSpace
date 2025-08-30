@@ -1,3 +1,18 @@
 [submodule "TeamUpSpace-frontend"]
 	path = TeamUpSpace-frontend
 	url = https://github.com/MingPV/TeamUpSpace-frontend.git
+[submodule "TeamUpSpace-UserService"]
+	path = TeamUpSpace-UserService
+	url = https://github.com/MingPV/TeamUpSpace-UserService.git
+[submodule "TeamUpSpace-PostService"]
+	path = TeamUpSpace-PostService
+	url = https://github.com/MingPV/TeamUpSpace-PostService.git
+[submodule "TeamUpSpace-EventService"]
+	path = TeamUpSpace-EventService
+	url = https://github.com/MingPV/TeamUpSpace-EventService.git
+[submodule "TeamUpSpace-ChatService"]
+	path = TeamUpSpace-ChatService
+	url = https://github.com/MingPV/TeamUpSpace-ChatService.git
+[submodule "TeamUpSpace-NotificationService"]
+	path = TeamUpSpace-NotificationService
+	url = https://github.com/MingPV/TeamUpSpace-NotificationService.git
