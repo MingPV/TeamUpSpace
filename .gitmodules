@@ -16,3 +16,6 @@
 [submodule "TeamUpSpace-NotificationService"]
 	path = TeamUpSpace-NotificationService
 	url = https://github.com/MingPV/TeamUpSpace-NotificationService.git
+[submodule "TeamUpSpace-ApiGateway"]
+	path = TeamUpSpace-ApiGateway
+	url = https://github.com/MingPV/TeamUpSpace-ApiGateway.git
